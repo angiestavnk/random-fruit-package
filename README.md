@@ -13,9 +13,9 @@ npm i get-random-fruit
 ```javascript
 const { randomFruit, randomFruits, fruits } = require("get-random-fruit");
 
-randomFruit(); - Output random fruit in the singular
-randomFruits(); - Output array of 5 fruits in singular
-randomFruits(12); - Output array of 12 fruits in singular
-randomFruits(12, true); - Output array of 12 fruits in plural
+randomFruit(); //Output random fruit in the singular
+randomFruits(); //Output array of 5 fruits in singular
+randomFruits(12); //Output array of 12 fruits in singular
+randomFruits(12, true); //Output array of 12 fruits in plural
 
-console.log(fruits) - Show list of all fruits
+console.log(fruits); //Show list of all fruits
