@@ -1,0 +1,386 @@
+[
+  {
+    "singular": "Apple",
+    "plural": "Apples"
+  },
+  {
+    "singular": "Apricot",
+    "plural": "Apricots"
+  },
+  {
+    "singular": "Avocado",
+    "plural": "Avocados"
+  },
+  {
+    "singular": "Banana",
+    "plural": "Bananas"
+  },
+  {
+    "singular": "Boysenberry",
+    "plural": "Boysenberries"
+  },
+  {
+    "singular": "Blackberry",
+    "plural": "Blackberries"
+  },
+  {
+    "singular": "Blueberry",
+    "plural": "Blueberries"
+  },
+  {
+    "singular": "Bing Cherry",
+    "plural": "Bing Cherries"
+  },
+  {
+    "singular": "Cherry",
+    "plural": "Cherries"
+  },
+  {
+    "singular": "Cantaloupe",
+    "plural": "Cantaloupes"
+  },
+  {
+    "singular": "Crab apple",
+    "plural": "Crab apples"
+  },
+  {
+    "singular": "Clementine",
+    "plural": "Clementines"
+  },
+  {
+    "singular": "Cucumber",
+    "plural": "Cucumbers"
+  },
+  {
+    "singular": "Damson plum",
+    "plural": "Damson plums"
+  },
+  {
+    "singular": "Date",
+    "plural": "Dates"
+  },
+  {
+    "singular": "Dewberry",
+    "plural": "Dewberries"
+  },
+  {
+    "singular": "Dragon Fruit",
+    "plural": "Dragon Fruits"
+  },
+  {
+    "singular": "Durian",
+    "plural": "Durians"
+  },
+  {
+    "singular": "Elderberry",
+    "plural": "Elderberries"
+  },
+  {
+    "singular": "Eggfruit",
+    "plural": "Eggfruits"
+  },
+  {
+    "singular": "Evergreen Huckleberry",
+    "plural": "Evergreen Huckleberies"
+  },
+  {
+    "singular": "Entawak",
+    "plural": "Entawaks"
+  },
+  {
+    "singular": "Fig",
+    "plural": "Figs"
+  },
+  {
+    "singular": "Farkleberry",
+    "plural": "Farkleberries"
+  },
+  {
+    "singular": "Finger Lime",
+    "plural": "Finger Limes"
+  },
+  {
+    "singular": "Grapefruit",
+    "plural": "Grapefruits"
+  },
+  {
+    "singular": "Grape",
+    "plural": "Grapes"
+  },
+  {
+    "singular": "Gooseberry",
+    "plural": "Gooseberries"
+  },
+  {
+    "singular": "Guava",
+    "plural": "Guavas"
+  },
+  {
+    "singular": "Honeydew melon",
+    "plural": "Honeydew melons"
+  },
+  {
+    "singular": "Hackberry",
+    "plural": "Hackberries"
+  },
+  {
+    "singular": "Honeycrisp Apple",
+    "plural": "Honeycrisp Apples"
+  },
+  {
+    "singular": "Indian Prune",
+    "plural": "Indian Prunes"
+  },
+  {
+    "singular": "Indonesian Lime",
+    "plural": "Indonesian Limes"
+  },
+  {
+    "singular": "Imbe",
+    "plural": "Imbes"
+  },
+  {
+    "singular": "Indian Fig",
+    "plural": "Indian Figs"
+  },
+  {
+    "singular": "Jackfruit",
+    "plural": "Jackfruits"
+  },
+  {
+    "singular": "Java Apple",
+    "plural": "Java Apples"
+  },
+  {
+    "singular": "Jambolan",
+    "plural": "Jambolans"
+  },
+  {
+    "singular": "Kiwi",
+    "plural": "Kiwis"
+  },
+  {
+    "singular": "Kaffir Lime",
+    "plural": "Kaffir Limes"
+  },
+  {
+    "singular": "Kumquat",
+    "plural": "Kumquats"
+  },
+  {
+    "singular": "Lime",
+    "plural": "Limes"
+  },
+  {
+    "singular": "Lemon",
+    "plural": "Lemons"
+  },
+  {
+    "singular": "Longan",
+    "plural": "Longans"
+  },
+  {
+    "singular": "Lychee",
+    "plural": "Lychees"
+  },
+  {
+    "singular": "Loquat",
+    "plural": "Loquats"
+  },
+  {
+    "singular": "Mandarin Orange",
+    "plural": "Mandarin Oranges"
+  },
+  {
+    "singular": "Mulberry",
+    "plural": "Mulberries"
+  },
+  {
+    "singular": "Melon",
+    "plural": "Melons"
+  },
+  {
+    "singular": "Nectarine",
+    "plural": "Nectarines"
+  },
+  {
+    "singular": "Navel Orange",
+    "plural": "Navel Oranges"
+  },
+  {
+    "singular": "Nashi Pear (Asian Pear)",
+    "plural": "Nashi Pears (Asian Pears)"
+  },
+  {
+    "singular": "Olive",
+    "plural": "Olives"
+  },
+  {
+    "singular": "Orange",
+    "plural": "Oranges"
+  },
+  {
+    "singular": "Ogeechee Lime",
+    "plural": "Ogeechee Limes"
+  },
+  {
+    "singular": "Oval Kumquats",
+    "plural": "Oval Kumquat"
+  },
+  {
+    "singular": "Papaya",
+    "plural": "Papayas"
+  },
+  {
+    "singular": "Persimmon",
+    "plural": "Persimmons"
+  },
+  {
+    "singular": "Plum",
+    "plural": "Plums"
+  },
+  {
+    "singular": "Paw Paw",
+    "plural": "Paw Paws"
+  },
+  {
+    "singular": "Prickly Pear",
+    "plural": "Prickly Pears"
+  },
+  {
+    "singular": "Peach",
+    "plural": "Peaches"
+  },
+  {
+    "singular": "Pineapple",
+    "plural": "Pineapples"
+  },
+  {
+    "singular": "Passion Fruit",
+    "plural": "Passion Fruits"
+  },
+  {
+    "singular": "Quince",
+    "plural": "Quinces"
+  },
+  {
+    "singular": "Queen Anne Cherry",
+    "plural": "Queen Anne Cherries"
+  },
+  {
+    "singular": "Quararibea cordata (Chupa Chupa)",
+    "plural": "Quararibea cordata (Chupa Chupa)"
+  },
+  {
+    "singular": "Rambutan",
+    "plural": "Rambutans"
+  },
+  {
+    "singular": "Raspberry",
+    "plural": "Raspberries"
+  },
+  {
+    "singular": "Rose Hip",
+    "plural": "Rose Hips"
+  },
+  {
+    "singular": "Star Fruit",
+    "plural": "Star Fruits"
+  },
+  {
+    "singular": "Strawbery",
+    "plural": "Strawberries"
+  },
+  {
+    "singular": "Sugar Baby Watermelon",
+    "plural": "Sugar Baby Watermelons"
+  },
+  {
+    "singular": "Tomato",
+    "plural": "Tomatoes"
+  },
+  {
+    "singular": "Tangerine",
+    "plural": "Tangerines"
+  },
+  {
+    "singular": "Tamarind",
+    "plural": "Tamarinds"
+  },
+  {
+    "singular": "Tart Cherry",
+    "plural": "Tart Cherries"
+  },
+  {
+    "singular": "Ugli Fruit",
+    "plural": "Ugli Fruits"
+  },
+  {
+    "singular": "Uniq Fruit",
+    "plural": "Uniq Fruits"
+  },
+  {
+    "singular": "Ugni",
+    "plural": "Ugnies"
+  },
+  {
+    "singular": "Vanilla Bean",
+    "plural": "Vanilla Beans"
+  },
+  {
+    "singular": "Velvet Pink Banana",
+    "plural": "Velvet Pink Bananas"
+  },
+  {
+    "singular": "Voavanga",
+    "plural": "Voavangas"
+  },
+  {
+    "singular": "Watermelon",
+    "plural": "Watermelons"
+  },
+  {
+    "singular": "Wolfberry",
+    "plural": "Wolfberries"
+  },
+  {
+    "singular": "White Mulberry",
+    "plural": "White Mulberries"
+  },
+  {
+    "singular": "Xigua (Chinese Watermelon)",
+    "plural": "Xigua (Chinese Watermelons)"
+  },
+  {
+    "singular": "Ximenia caffra fruit",
+    "plural": "Ximenia caffra fruits"
+  },
+  {
+    "singular": "Xango Mangosteen Fruit Juice",
+    "plural": "Xango Mangosteen Fruit Juices"
+  },
+  {
+    "singular": "Yellow Passion Fruit",
+    "plural": "Yellow Passion Fruits"
+  },
+  {
+    "singular": "Yunnan Hackberry",
+    "plural": "Yunnan Hackberries"
+  },
+  {
+    "singular": "Yangmei",
+    "plural": "Yangmeis"
+  },
+  {
+    "singular": "Zig Zag Vine fruit",
+    "plural": "Zig Zag Vine fruits"
+  },
+  {
+    "singular": "Zinfandel Grape",
+    "plural": "Zinfandel Grapes"
+  },
+  {
+    "singular": "Zucchini",
+    "plural": "Zucchinies"
+  }
+]

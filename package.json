@@ -1,0 +1,19 @@
+{
+  "name": "get-random-fruit",
+  "version": "1.0.0",
+  "description": "Get random fruit or fruits list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angiestavnk/random-fruit-package.git"
+  },
+  "author": "angiestavnk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angiestavnk/random-fruit-package/issues"
+  },
+  "homepage": "https://github.com/angiestavnk/random-fruit-package#readme"
+}
